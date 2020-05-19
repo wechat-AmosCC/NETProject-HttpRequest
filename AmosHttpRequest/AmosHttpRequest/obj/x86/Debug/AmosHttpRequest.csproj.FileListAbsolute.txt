@@ -1,0 +1,17 @@
+d:\documents\visual studio 2010\Projects\AmosHttpRequest\AmosHttpRequest\bin\Debug\AmosHttpRequest.exe
+d:\documents\visual studio 2010\Projects\AmosHttpRequest\AmosHttpRequest\bin\Debug\AmosHttpRequest.pdb
+d:\documents\visual studio 2010\Projects\AmosHttpRequest\AmosHttpRequest\obj\x86\Debug\AmosHttpRequest.Form1.resources
+d:\documents\visual studio 2010\Projects\AmosHttpRequest\AmosHttpRequest\obj\x86\Debug\AmosHttpRequest.Properties.Resources.resources
+d:\documents\visual studio 2010\Projects\AmosHttpRequest\AmosHttpRequest\obj\x86\Debug\AmosHttpRequest.csproj.GenerateResource.Cache
+d:\documents\visual studio 2010\Projects\AmosHttpRequest\AmosHttpRequest\obj\x86\Debug\AmosHttpRequest.exe
+d:\documents\visual studio 2010\Projects\AmosHttpRequest\AmosHttpRequest\obj\x86\Debug\AmosHttpRequest.pdb
+C:\Users\Administrator\Documents\WeChat Files\AmosCC\FileStorage\File\2020-05\AmosHttpRequest\AmosHttpRequest\obj\x86\Debug\AmosHttpRequest.exe
+C:\Users\Administrator\Documents\WeChat Files\AmosCC\FileStorage\File\2020-05\AmosHttpRequest\AmosHttpRequest\obj\x86\Debug\AmosHttpRequest.pdb
+C:\Users\Administrator\Documents\WeChat Files\AmosCC\FileStorage\File\2020-05\AmosHttpRequest\AmosHttpRequest\obj\x86\Debug\AmosHttpRequest.Form1.resources
+C:\Users\Administrator\Documents\WeChat Files\AmosCC\FileStorage\File\2020-05\AmosHttpRequest\AmosHttpRequest\obj\x86\Debug\AmosHttpRequest.Properties.Resources.resources
+C:\Users\Administrator\Documents\WeChat Files\AmosCC\FileStorage\File\2020-05\AmosHttpRequest\AmosHttpRequest\obj\x86\Debug\AmosHttpRequest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\WeChat Files\AmosCC\FileStorage\File\2020-05\AmosHttpRequest\AmosHttpRequest\bin\Debug\AmosHttpRequest.exe
+C:\Users\Administrator\Documents\WeChat Files\AmosCC\FileStorage\File\2020-05\AmosHttpRequest\AmosHttpRequest\bin\Debug\AmosHttpRequest.pdb
+C:\Users\Administrator\Documents\WeChat Files\AmosCC\FileStorage\File\2020-05\AmosHttpRequest\AmosHttpRequest\obj\x86\Debug\AmosHttpRequest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\WeChat Files\AmosCC\FileStorage\File\AmosHttpRequest\AmosHttpRequest\obj\x86\Debug\AmosHttpRequest.exe
+C:\Users\Administrator\Documents\WeChat Files\AmosCC\FileStorage\File\AmosHttpRequest\AmosHttpRequest\obj\x86\Debug\AmosHttpRequest.pdb
